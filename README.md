@@ -2,6 +2,8 @@
 
 ## Built using Flutter, Bloc, RxDart, and FIFA 20 API.
 
+### FIFA Card has been designed using Stack and Positoned widgets on top of a image.
+
 <figure>
 <img src="screenshots/1.png" alt="Your image title" width="250" height="700"/>
 <figcaption> Loading state with data fetched from API</figcaption>
