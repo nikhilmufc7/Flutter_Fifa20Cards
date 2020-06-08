@@ -2,7 +2,7 @@
 
 ## Built using Flutter, Bloc, RxDart, and FIFA 20 API.
 
-![Loading State with data from API](screenshots/1.png = 500x250)
+![Loading State with data from API](screenshots/1.png =500x250)
 
 ![Searching State with results from API](screenshots/2.png)
 
